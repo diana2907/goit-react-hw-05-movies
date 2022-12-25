@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/168.b8ab63fa.chunk.css","mappings":"AAAA,sBACA,eACA,CAEA,qBACI,cACJ","sources":["components/Reviews/Reviews.module.css"],"sourcesContent":[".label {\nfont-weight: 700;\n}\n\n.text {\n    font-size: 12px;\n}"],"names":[],"sourceRoot":""}
