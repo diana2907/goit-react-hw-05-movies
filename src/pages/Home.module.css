@@ -1,0 +1,9 @@
+.box{
+    display: grid;
+    place-items: center;
+    padding: 10px 0;
+}
+
+.title {
+    margin-bottom: 10px;
+}
